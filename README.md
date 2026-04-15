@@ -73,7 +73,7 @@ A energia cinética do(a) Bola é 100.00J <br/>
  - Manipulação de strings
  - Organização em funções
 
- - <hr/>
+ <hr/>
 
  # 👨‍💻 Autor
   ## Arthur Tech Lab
